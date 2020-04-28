@@ -1,5 +1,3 @@
-# MayinTarlasi
-
 Komut satırında oynanan basit Mayın Tarlası oyunu.
 
 Başlangıçta,
