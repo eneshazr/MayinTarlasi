@@ -5,7 +5,7 @@ Başlangıçta,
 
 Oyun 4 bölümden oluşur;
 
-0, 25 -
+- 0, 25
 - 0, 50
 - 0, 75
 - 0, 100
